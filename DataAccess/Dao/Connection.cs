@@ -19,10 +19,9 @@ namespace DataAccess
         //    @"Integrated Security=True;" +
         //    @"Connect Timeout=30";
 
-
-                                               //   C:\Users\aleja\OneDrive\Colleges\George Brown\semester 3 - 2018 fall\COMP 2129 Advanced Object Oriented Programming\project 3\AirlineReservation\DataAccess\Database
-        // private static string fileFullPath = @"C:\Users\aleja\OneDrive\Colleges\George Brown\semester 3 - 2018 fall\COMP 2129 Advanced Object Oriented Programming\project 3\AirlineReservation\DataAccess\Database\AirlineReservationDB1.mdf;";
-        //private static string fileFullPath = @"C:\Users\aleja\OneDrive\_projects-for-employment\3-comp2129-p3-airline-reservation-system\AirlineReservation";
+        // C:\AirlineReservation\DataAccess\Database
+        // private static string fileFullPath = @"C:\AirlineReservation\DataAccess\Database\AirlineReservationDB1.mdf;";
+        // private static string fileFullPath = @"C:\AirlineReservation";
 
         //private static string fileFullPath = Directory.GetCurrentDirectory(); 
 
